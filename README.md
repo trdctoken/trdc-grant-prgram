@@ -1,1 +1,1 @@
-# trdcbounty
+# trdc grant program
